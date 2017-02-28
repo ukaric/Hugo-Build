@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>uroskaric.me</title>
-    <link>http://kadza.surge.sh/index.xml</link>
-    <description>Recent content on uroskaric.me</description>
+    <title>Hugo|Starterkit</title>
+    <link>https://ukaric.github.io/Hugo-Build/index.xml</link>
+    <description>Recent content on Hugo|Starterkit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://kadza.surge.sh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ukaric.github.io/Hugo-Build/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://kadza.surge.sh/hello/</link>
+      <link>https://ukaric.github.io/Hugo-Build/hello/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kadza.surge.sh/hello/</guid>
+      <guid>https://ukaric.github.io/Hugo-Build/hello/</guid>
       <description>&lt;p&gt;#Testing stuff
 #Testing stufffss is good.&lt;/p&gt;
 </description>

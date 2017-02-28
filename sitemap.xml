@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://kadza.surge.sh/hello/</loc>
+    <loc>https://ukaric.github.io/Hugo-Build/hello/</loc>
   </url>
   
   <url>
-    <loc>http://kadza.surge.sh/</loc>
+    <loc>https://ukaric.github.io/Hugo-Build/</loc>
     <priority>0</priority>
   </url>
   
